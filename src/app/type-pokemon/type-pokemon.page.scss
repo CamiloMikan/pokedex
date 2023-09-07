@@ -1,0 +1,89 @@
+ion-button {
+    width: 100%;
+    max-width: 250px;
+    margin: 10px auto;
+}
+
+/* styles.css o tu archivo CSS personalizado */
+.icono-tipo {
+    width: 24px; /* Establece el ancho deseado para la imagen */
+    height: 24px; /* Establece la altura deseada para la imagen */
+    margin-right: 8px; /* Agrega espacio entre la imagen y el texto */
+  }
+  
+
+.button-agua {
+    --background: #6493eb; /* Color de fondo para el tipo Agua */
+    --color: white; /* Color del texto */
+  }
+  
+  .button-fuego {
+    --background: #ff5733; /* Color de fondo para el tipo Fuego */
+    --color: white;
+  }
+  
+  .button-planta {
+    --background: #68c86f; /* Color de fondo para el tipo Planta */
+    --color: white;
+  }
+  
+  .button-Eléctrico {
+    --background: #ffcb05; /* Color de fondo para el tipo Eléctrico */
+    --color: black; /* Cambiado a negro para mejorar la legibilidad */
+  }
+  
+  .button-Hielo {
+    --background: #9bd8d8; /* Color de fondo para el tipo Hielo */
+    --color: black;
+  }
+  
+  .button-Lucha {
+    --background: #e94e77; /* Color de fondo para el tipo Lucha */
+    --color: white;
+  }
+  
+  .button-Veneno {
+    --background: #a55eea; /* Color de fondo para el tipo Veneno */
+    --color: white;
+  }
+  
+  .button-Tierra {
+    --background: #dbb84d; /* Color de fondo para el tipo Tierra */
+    --color: black;
+  }
+  
+  .button-Volador {
+    --background: #8eb7ff; /* Color de fondo para el tipo Volador */
+    --color: black;
+  }
+  
+  .button-Psíquico {
+    --background: #ff6bcb; /* Color de fondo para el tipo Psíquico */
+    --color: black;
+  }
+  
+  .button-Bicho {
+    --background: #c4d631; /* Color de fondo para el tipo Bicho */
+    --color: black;
+  }
+  
+  .button-Roca {
+    --background: #c5b489; /* Color de fondo para el tipo Roca */
+    --color: black;
+  }
+  
+  .button-Fantasma {
+    --background: #8571e9; /* Color de fondo para el tipo Fantasma */
+    --color: white;
+  }
+  
+  .button-Dragón {
+    --background: #f16e57; /* Color de fondo para el tipo Dragón */
+    --color: white;
+  }
+  
+  .button-Normal {
+    --background: #a8a878; /* Color de fondo para el tipo Normal */
+    --color: black;    
+  }
+  
